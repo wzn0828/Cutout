@@ -2,3 +2,6 @@
 checkpoints/
 logs/
 data/
+Experiments/
+.idea/
+.idea/*
